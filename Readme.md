@@ -7,3 +7,9 @@ This repository will contain Copilot Studio User Group related contents like:
 3. Reference File
 4. Assets
 5. Other files
+
+
+
+Become a member of User Group
+
+
